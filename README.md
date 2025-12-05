@@ -2,7 +2,7 @@
 Antes de realizar o flash da BIOS em sua Qiyida X99, veja as intruções abaixo para evitar possíveis problemas durante o flash da BIOS. **O flash efetuado de forma incorreta, pode brickar a sua placa mãe.**
 
 - Verifique se o chipset da sua placa mãe é compatível. Para as BIOS presentes neste repositório, é necessário que a sua placa mãe tenha o chipset **Intel C612.**
-- Realize o backup da sua BIOS antes do flash. Caso não tenha feito backup, pode ficar tranquilo que vocÊ pode encontrar a BIOS stock da Qiyida X99 D4 neste repositório.
+- Realize o backup da sua BIOS antes do flash. Caso não tenha feito backup, pode ficar tranquilo que você pode encontrar a BIOS stock neste repositório.
 - Não desligue o computador ou efetue o cancelamento do flash durante o processo de flesheamento da BIOS.
 - Reinicie a sua máquina após o flash completo da BIOS.
 
